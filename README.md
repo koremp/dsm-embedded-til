@@ -1,1 +1,3 @@
-학교 공부 정리용
+MCU 응용
+
+Imbedded Android Programming
