@@ -1,1 +1,1 @@
-# Imbedded_TIL
+학교 공부 정리용
